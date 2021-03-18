@@ -1,0 +1,1 @@
+'''Else: dentro de un for o un while funciona igual que en un if'''
